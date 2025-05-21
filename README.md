@@ -5,7 +5,6 @@ Repositório com materiais das aulas abertas sobre segurança ofensiva e Capture
 ## 📚 Aula 1: SQL Injection
 
 - 📽️ [Slides (Google Slides)](https://docs.google.com/presentation/d/1spm-o5ORXFeRXCU3__ZSA83vqD_nbi8xNtOHSktcXok/edit?usp=sharing)
-- 📄 [Folha de exercícios](aula01-sql-injection/folha_exercicios.md)
 - 🔗 Labs utilizados:
   - [Lab 1 – WHERE clause SQLi](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data)
   - [Lab 2 – Login Bypass](https://portswigger.net/web-security/sql-injection/lab-login-bypass)
